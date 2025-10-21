@@ -71,6 +71,11 @@
     "global": {
       "anchors": [
         {
+          "anchor": "Online Store",
+          "href": "https://tecompanytea.com",
+          "icon": "store"
+        },
+        {
           "anchor": "Documentation",
           "href": "https://docs.tecompanytea.com",
           "icon": "book-open-cover"
