@@ -1,0 +1,13 @@
+    # Ignore Node.js modules
+    node_modules/
+
+    # Ignore temporary or build files
+    .DS_Store
+    *.log
+    *.tmp
+    build/
+    dist/
+
+    # Ignore editor-specific files
+    .vscode/
+    .idea/
