@@ -1,38 +1,26 @@
 # Té Company
 
-> Taiwanese tea and handmade tea snacks sourced directly from small farmers in Taiwan.
-
-Té Company is a New York-based specialty tea company founded in 2012. We have two tearooms in Manhattan (West Village and East Village) and source loose-leaf teas directly from Taiwan. We're known for our Pineapple Linzer cookies, named "New York's Best Cookie" by Saveur and featured in the New York Times.
+Taiwanese tea and handmade snacks sourced directly from small farmers in Taiwan. Founded 2012, with tearooms in Manhattan's West Village and East Village. Known for Pineapple Linzer cookies, named "New York's Best Cookie" by Saveur.
 
 ## Documentation
 
-- [Full Documentation](https://docs.tecompanytea.com): Complete guide to our teas, snacks, and philosophy
-- [Tea Guide](https://docs.tecompanytea.com/tea.md): Taiwanese oolong, black, and green teas
-- [Snacks Guide](https://docs.tecompanytea.com/snacks.md): Handmade traditional treats
-- [Brewing Guide](https://docs.tecompanytea.com/brewing.md): How to brew different tea types
-- [Tea Education](https://docs.tecompanytea.com/education.md): Understanding oolong, cultivars, and processing
+- [Overview](https://docs.tecompanytea.com): Complete guide to our teas, snacks, and philosophy
+- [Our Story](https://docs.tecompanytea.com/story.md): Company history, founders, and mission
+- [Contact](https://docs.tecompanytea.com/contact.md): How to reach us and store hours
 
-## Shop
+## Products
 
-- [Tea](https://tecompanytea.com/collections/tea): Loose-leaf Taiwanese teas
-- [Tea Sachets](https://tecompanytea.com/collections/tea-sachets): Convenient tea bags
-- [Snacks](https://tecompanytea.com/collections/snacks): Pineapple Linzer cookies, Taiwanese Pineapple Cakes
-- [Teaware](https://tecompanytea.com/collections/teaware): Handmade ceramics and brewing tools
-- [Gifts](https://tecompanytea.com/collections/gifts): Curated gift sets
+- [Tea](https://docs.tecompanytea.com/tea.md): Taiwanese oolong, black, and green teas
+- [Tea Sachets](https://docs.tecompanytea.com/tea-sachets.md): Convenient tea bags
+- [Snacks](https://docs.tecompanytea.com/snacks.md): Pineapple Linzer cookies, Taiwanese Pineapple Cakes
+- [Teaware](https://docs.tecompanytea.com/teaware.md): Handmade ceramics and brewing tools
+- [Gifts](https://docs.tecompanytea.com/gifts.md): Curated gift sets
 
 ## Learn
 
-- [What is Oolong Tea](https://tecompanytea.com/blogs/tea-atelier/what-is-oolong-tea): Understanding Taiwan's most celebrated tea
-- [What is Milk Oolong](https://tecompanytea.com/blogs/tea-atelier/what-is-milk-oolong-tea): Guide to Jin Xuan cultivar
-- [Pineapple Cake History](https://tecompanytea.com/blogs/tea-atelier/taiwanese-pineapple-cake-history): Cultural significance
-- [Tea Atelier Blog](https://tecompanytea.com/blogs/tea-atelier): Sourcing stories and tea education
+- [Brewing Guide](https://docs.tecompanytea.com/brewing.md): How to brew different tea types
 
-## Visit
+## Locations
 
 - West Village: 163 W 10th Street, New York, NY
 - East Village: 314 E 9th Street, New York, NY
-
-## About
-
-- [Our Story](https://tecompanytea.com/pages/our-story)
-- [Contact](https://tecompanytea.com/pages/contact)
