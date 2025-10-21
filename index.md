@@ -26,41 +26,41 @@ We believe in:
 **East Village Tearoom** (opened 2024)  
 314 E 9th Street, New York, NY
 
-Both locations offer tea service, pastries, and retail shopping. [Visit details →](visit.md)
+Both locations offer tea service, pastries, and retail shopping. [Visit details](visit.md)
 
 ---
 
 ## Products
 
-### [Tea →](tea.md)
+### [Tea](tea.md)
 Taiwanese oolong, black, and green teas sourced directly from small farmers. Learn about our selection, cultivars, processing methods, and what makes each tea special.
 
 **Featured teas**: Oriental Beauty, High Mountain Oolongs, Milk Oolong, Aged Teas
 
-[Browse all tea →](https://tecompanytea.com/collections/tea)
+[Browse all tea](https://tecompanytea.com/collections/tea)
 
-### [Snacks →](snacks.md)
+### [Snacks](snacks.md)
 Handmade traditional treats made fresh in our Brooklyn bakery. Our signature Pineapple Linzer cookies were named "New York's Best Cookie" by Saveur Magazine and featured in the New York Times.
 
 **Featured snacks**: Pineapple Linzer Cookie, Taiwanese Pineapple Cake, Mooncakes (seasonal)
 
-[Browse all snacks →](https://tecompanytea.com/collections/snacks)
+[Browse all snacks](https://tecompanytea.com/collections/snacks)
 
-### [Teaware →](teaware.md)
+### [Teaware](teaware.md)
 Carefully selected teaware including handmade ceramics by Natalie Pappas (Youlan Ceramics), traditional teapots, gaiwans, and brewing accessories.
 
 **Featured**: Handmade tea cups (10th anniversary collaboration), embroidered caps, enamel pins
 
-[Browse all teaware →](https://tecompanytea.com/collections/teaware)
+[Browse all teaware](https://tecompanytea.com/collections/teaware)
 
 ---
 
 ## Learn
 
-### [Brewing Guides →](brewing.md)
+### [Brewing Guides](brewing.md)
 Step-by-step instructions for brewing different types of tea. Learn gongfu brewing, Western-style brewing, and how to get the most from your tea.
 
-### [Tea Education →](education.md)
+### [Tea Education](education.md)
 Deep dive into oolong tea, cultivars (TTES #12, #17, Qingxin), processing methods, oxidation levels, and what makes Taiwanese tea special.
 
 **Popular topics**:
@@ -68,7 +68,7 @@ Deep dive into oolong tea, cultivars (TTES #12, #17, Qingxin), processing method
 - [What is Milk Oolong](https://tecompanytea.com/blogs/tea-atelier/what-is-milk-oolong-tea)
 - [Taiwanese Pineapple Cake History](https://tecompanytea.com/blogs/tea-atelier/taiwanese-pineapple-cake-history)
 
-### [Stories →](stories.md)
+### [Stories](stories.md)
 Behind-the-scenes from our sourcing trips, anniversary collaborations, and the people who make our products.
 
 ---
