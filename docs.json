@@ -71,16 +71,6 @@
     "global": {
       "anchors": [
         {
-          "anchor": "Online Store",
-          "href": "https://tecompanytea.com",
-          "icon": "store"
-        },
-        {
-          "anchor": "Documentation",
-          "href": "https://docs.tecompanytea.com",
-          "icon": "book-open-cover"
-        },
-        {
           "anchor": "Blog",
           "href": "https://tecompanytea.com/blogs/tea-atelier",
           "icon": "newspaper"
@@ -95,13 +85,13 @@
   "navbar": {
     "links": [
       {
-        "label": "Support",
+        "label": "Contact",
         "href": "mailto:hello@tecompanytea.com"
       }
     ],
     "primary": {
       "type": "button",
-      "label": "Dashboard",
+      "label": "Shop",
       "href": "https://dashboard.mintlify.com"
     }
   },
