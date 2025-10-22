@@ -1,68 +1,44 @@
 {
   "$schema": "https://mintlify.com/docs.json",
   "theme": "mint",
-  "name": "Mint Starter Kit",
+  "name": "Té Company",
   "colors": {
     "primary": "#886f60",
     "light": "#b6a89e",
     "dark": "#5f4e43"
   },
   "favicon": "/favicon.svg",
+  "logo": {
+    "light": "/logo/light.svg",
+    "dark": "/logo/dark.svg"
+  },
   "navigation": {
     "tabs": [
       {
-        "tab": "Guides",
+        "tab": "Documentation",
         "groups": [
           {
-            "group": "Getting started",
+            "group": "About",
             "pages": [
               "index",
-              "quickstart",
-              "development"
+              "story",
+              "contact"
             ]
           },
           {
-            "group": "Customization",
+            "group": "Products",
             "pages": [
-              "essentials/settings",
-              "essentials/navigation"
+              "tea",
+              "snacks",
+              "teaware",
+              "gifts"
             ]
           },
           {
-            "group": "Writing content",
+            "group": "Learn",
             "pages": [
-              "essentials/markdown",
-              "essentials/code",
-              "essentials/images",
-              "essentials/reusable-snippets"
-            ]
-          },
-          {
-            "group": "AI tools",
-            "pages": [
-              "ai-tools/cursor",
-              "ai-tools/claude-code",
-              "ai-tools/windsurf"
-            ]
-          }
-        ]
-      },
-      {
-        "tab": "API reference",
-        "groups": [
-          {
-            "group": "API documentation",
-            "pages": [
-              "api-reference/introduction"
-            ]
-          },
-          {
-            "group": "Endpoint examples",
-            "pages": [
-              "api-reference/endpoint/get",
-              "api-reference/endpoint/create",
-              "api-reference/endpoint/delete",
-              "api-reference/endpoint/webhook"
+              "brewing",
+              "education"
             ]
           }
         ]
@@ -78,10 +54,6 @@
       ]
     }
   },
-  "logo": {
-    "light": "/logo/light.svg",
-    "dark": "/logo/dark.svg"
-  },
   "navbar": {
     "links": [
       {
@@ -92,20 +64,16 @@
     "primary": {
       "type": "button",
       "label": "Shop",
-      "href": "https://dashboard.mintlify.com"
+      "href": "https://tecompanytea.com"
     }
   },
   "contextual": {
     "options": [
-     "copy",
-     "view",
-     "chatgpt",
-     "claude",
-     "perplexity",
-     "mcp",
-     "cursor",
-     "vscode"
-   ]
+      "copy",
+      "chatgpt",
+      "claude",
+      "perplexity"
+    ]
   },
   "footer": {
     "socials": {
