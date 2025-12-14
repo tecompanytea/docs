@@ -21,16 +21,16 @@ Té Company is a New York-based tea company. We source loose-leaf teas directly 
 ## Products
 
 <CardGroup cols={2}>
-  <Card title="Tea" icon="leaf" href="/tea">
+  <Card title="Tea" icon="leaf" href="/products/tea">
     Taiwanese oolong, black, and green teas - cultivars, sourcing, and tasting notes.
   </Card>
-  <Card title="Snacks" icon="cookie" href="/snacks">
+  <Card title="Snacks" icon="cookie" href="/products/snacks">
     Handmade traditional treats including our award-winning Pineapple Linzer cookies.
   </Card>
-  <Card title="Teaware" icon="mug-hot" href="/teaware">
+  <Card title="Teaware" icon="mug-hot" href="/products/teaware">
     Handmade ceramics, traditional teapots, gaiwans, and brewing accessories.
   </Card>
-  <Card title="Gifts" icon="gift" href="/gifts">
+  <Card title="Gifts" icon="gift" href="/products/gifts">
     Curated gift sets combining our premium teas and handmade treats.
   </Card>
 </CardGroup>
@@ -38,7 +38,7 @@ Té Company is a New York-based tea company. We source loose-leaf teas directly 
 ## Guides
 
 <CardGroup cols={2}>
-  <Card title="Brewing Guide" icon="book-open" href="/brewing">
+  <Card title="Brewing Guide" icon="book-open" href="/guides/brewing-guide">
     Step-by-step instructions for brewing different types of tea.
   </Card>
   <Card title="Tea Education" icon="graduation-cap" href="/education">
