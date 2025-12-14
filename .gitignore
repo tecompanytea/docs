@@ -1,5 +1,6 @@
     # Ignore Node.js modules
     node_modules/
+    Docs-main/
 
     # Ignore temporary or build files
     .DS_Store
