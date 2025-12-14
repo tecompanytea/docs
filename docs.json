@@ -28,17 +28,23 @@
           {
             "group": "Products",
             "pages": [
-              "tea",
-              "snacks",
-              "teaware",
-              "gifts"
+              "products/tea",
+              "products/snacks",
+              "products/teaware",
+              "products/gifts"
             ]
           },
           {
             "group": "Learn",
             "pages": [
-              "brewing",
-              "education"
+              "guides/brewing-guide",
+              "guides/clay-teapot",
+              "guides/gaiwan",
+              "guides/hario-simply",
+              "guides/weck-jar",
+              "guides/french-press",
+              "guides/cold-brew",
+              "guides/no-tools"
             ]
           }
         ]
