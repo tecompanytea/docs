@@ -20,7 +20,7 @@
           {
             "group": "About",
             "pages": [
-              "index",
+              "introduction",
               "story",
               "contact"
             ]
